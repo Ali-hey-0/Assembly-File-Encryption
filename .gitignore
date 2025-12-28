@@ -1,0 +1,19 @@
+# Build artifacts
+encryption
+encryption.o
+*.o
+
+# Test artifacts
+test_*.txt
+test_output.txt
+test_result.txt
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and temporary
+*.log
+*.tmp
