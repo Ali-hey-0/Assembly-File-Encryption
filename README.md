@@ -1,11 +1,5 @@
 # CryptoVault Pro — Assembly File Encryption
 
-## Project Metadata
-
-- **Course:** Assembly Language
-- **Instructor:** عادل حساس ایرانی (University Master)
-- **Student:** Ali Heydari — aliheydari1381doc@gmail.com — GitHub: Ali-hey-0
-- **Year / Semester:** 2025
 
 A compact, single-file assembly project that demonstrates simple file
 encryption utilities (XOR, Caesar, Vigenere, ROT13) for learning and
